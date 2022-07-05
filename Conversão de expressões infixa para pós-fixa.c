@@ -1,9 +1,3 @@
-
-Interpretação e Cálculo de Expressões Aritméticas
-Inacio Cordeiro Alves
-•
-13 de abr.
-100 pontos
 Desenvolver um programa que lê uma expressão aritmética como:
 
 ((2 + 3 ) * (5 + 2) ) * ((3 + 8 - 2 )  * (2 + 3)  * (3 + 4) )
