@@ -46,7 +46,7 @@ struct TNode* newNode(int data)
   return node;
 }
 
-/* Uma função de utilitário para imprimir travessia de pré-encomenda de ABB*/
+/* Uma função de utilitário para imprimir travessia de pré-encomenda de BST*/
 void preOrder(struct TNode* node)
 {
   if (node == NULL)
@@ -62,7 +62,7 @@ int main()
   int arr[] = {1, 2, 3, 4, 5, 6, 7};
   int n = sizeof(arr)/sizeof(arr[0]);
 
-  /* Converter a lista para ABB*/
+  /* Converter a lista para BST*/
   struct TNode *root = sortedArrayToBST(arr, 0, n-1);
   printf("n PreOrder Traversal of constructed BST ");
   preOrder(root);
