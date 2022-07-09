@@ -1,5 +1,5 @@
 # ESTRUTURA-DE-DADOS
-                                 🖥 Atividades solicitadas na disciplina de estrutura de dados 🖥 
+                         🖥 Atividades solicitadas na disciplina de estrutura de dados 🖥 
 
 - Conversão de expressões infixa para pós-fixa
 - Multiplicação de números inteiros gigantes
